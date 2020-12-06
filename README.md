@@ -5,6 +5,7 @@
 ## 算法笔记
 
 1. [二分查找](https://github.com/yangyang121/garbage-blog/issues/2)
+2. [Top K 问题](https://github.com/yangyang121/garbage-blog/issues/3)
 
 ## 优秀的博文
 
