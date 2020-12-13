@@ -11,3 +11,7 @@
 
 1. [网络相关](https://github.com/halfrost/Halfrost-Field)
 2. [build-your-own-react](https://pomb.us/build-your-own-react/)
+
+## 项目总结
+
+1. [yarn workspace 实现 monorepo 工作流](https://github.com/yangyang121/garbage-blog/issues/4)
